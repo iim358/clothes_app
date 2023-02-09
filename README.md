@@ -35,6 +35,8 @@ ProfilePage Screen
 ![ProfilepageScreen g](https://user-images.githubusercontent.com/120582484/217743299-cbe4e1ae-64bb-494e-a712-e81ec8832cb8.png)
 
 Firestore database product detail
+![firestore database detail](https://user-images.githubusercontent.com/120582484/217744478-4da7dc6d-48a4-4b59-aa40-1367249b85fe.png)
+
 
 
 
