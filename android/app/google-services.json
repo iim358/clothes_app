@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042226884765",
+    "project_id": "fireclothes-1bebb",
+    "storage_bucket": "fireclothes-1bebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042226884765:android:c82239828a9dc6737ae474",
+        "android_client_info": {
+          "package_name": "com.example.appfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042226884765-hnfgu9lbbsf73n9tnie6gnf5grkl3dd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGklS0HMgB8u0POBm2ZplCnqP_oJWCD2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042226884765-hnfgu9lbbsf73n9tnie6gnf5grkl3dd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

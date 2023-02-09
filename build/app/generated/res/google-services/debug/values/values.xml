@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1042226884765-hnfgu9lbbsf73n9tnie6gnf5grkl3dd4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1042226884765</string>
+    <string name="google_api_key" translatable="false">AIzaSyBGklS0HMgB8u0POBm2ZplCnqP_oJWCD2Q</string>
+    <string name="google_app_id" translatable="false">1:1042226884765:android:c82239828a9dc6737ae474</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBGklS0HMgB8u0POBm2ZplCnqP_oJWCD2Q</string>
+    <string name="google_storage_bucket" translatable="false">fireclothes-1bebb.appspot.com</string>
+    <string name="project_id" translatable="false">fireclothes-1bebb</string>
+</resources>
